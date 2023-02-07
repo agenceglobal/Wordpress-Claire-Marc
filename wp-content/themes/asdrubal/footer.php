@@ -1,6 +1,6 @@
         <footer>
             <address>
-                Email: <a href="info@agenciaclairemarc.com">info@agenciaclairemarc.com</a><br>
+                Email: <a href="mailto:info@agenciaclairemarc.com">info@agenciaclairemarc.com</a><br>
                 Barcelona, España
             </address>
             <p>
