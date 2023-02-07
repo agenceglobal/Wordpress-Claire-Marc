@@ -4,9 +4,11 @@
                 Barcelona, España
             </address>
             <p>
-                (c) 2023 Agencia de Marketing de Claire y Marc</a><br>
+                Aviso Legal | Política de Privacidad | Política de Cookies
             </p>
-            <p><?php echo "Web desarrollada para el Máster de SEO Técnico";?></p>
+            <p>
+                © 2023 Agencia de Marketing de Claire y Marc | <?php echo "Web desarrollada para el Máster de SEO Técnico";?>
+            </p>
             <?php wp_footer();?>
         </footer>
     </body>
