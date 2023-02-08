@@ -1,8 +1,9 @@
 <?php
 get_header();
-//include_once 'header.php';?>
+//include_once 'header.php';
+/*Template Name: Plantilla home*/?>
 
-<div class="generico">
+<div class="plantilla home">
 
     <h1><?php the_title();?></h1>
 
