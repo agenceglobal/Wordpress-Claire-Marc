@@ -11,9 +11,8 @@ get_header();
     </section>
     <?php  
    include $plantillas.'trespost.php';
-   
     ?>
-   
 
 </div>
+
 <?php get_footer();?>
