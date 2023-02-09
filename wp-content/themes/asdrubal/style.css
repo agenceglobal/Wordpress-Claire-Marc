@@ -17,3 +17,29 @@ nav>ul {
     height: 50px;
     z-index: 10;
 }
+
+.flexcenter{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px auto;}
+
+.post-card a{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: flex-end;
+    background: lightblue;
+    justify-content: space-around;
+    padding: 0px;
+    text-decoration: auto;
+}
+
+.post-card a .post-name{
+    background: green;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    width: 100%;
+    min-height: 2em;
+}
