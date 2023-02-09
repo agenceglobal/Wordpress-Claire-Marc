@@ -1,4 +1,4 @@
-<section id="trespostdisplay" class="box cards">
+<section id="trespostdisplay" class="flexcenter">
 <?php
 $args = array(
     'posts_per_page' => 3, /* Poner -1 para infinito */
