@@ -18,6 +18,7 @@ wp_head();
     </head>
 <body>
     <header>
+    <nav>
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/seo-tecnico.php">Claire</a></li>
@@ -26,6 +27,5 @@ wp_head();
             <li><a href="/basica.php">Básica</a></li>
             <li><a href="https://www.agenceglobalweb.com/" target="_blank">Mi web</a></li>
          </ul>
-         <div class="cerrar">X</div>
     </nav>
     </header>

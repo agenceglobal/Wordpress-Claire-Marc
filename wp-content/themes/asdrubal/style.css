@@ -4,3 +4,16 @@ Author: Claire y Marc
 Description: Tema personalizado de Claire y Marc
 Version: 1.0.0
 */
+nav>ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: fixed;
+    width: 100%;
+    background: white;
+    margin: 0px;
+    top: 0;
+    height: 50px;
+    z-index: 10;
+}
