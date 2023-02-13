@@ -9,6 +9,8 @@ get_header();
     <section id="contenido">
     <?php the_content();?>
     </section>
+</div>
+<div>
     <?php  
    include $plantillas.'trespost.php';
     ?>

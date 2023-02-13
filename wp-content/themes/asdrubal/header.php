@@ -21,8 +21,8 @@ wp_head();
     <nav>
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/seo-tecnico.php">Claire</a></li>
-            <li><a href="/contactar.php">Contacto</a></li>
+            <li><a href="/sobre-nosotros/">Sobre Nosotros</a></li>
+            <li><a href="/contactar.php/">Contacto</a></li>
             <li><a href="/ejemplo.php">Ejemplo</a></li>
             <li><a href="/basica.php">Básica</a></li>
             <li><a href="https://www.agenceglobalweb.com/" target="_blank">Mi web</a></li>

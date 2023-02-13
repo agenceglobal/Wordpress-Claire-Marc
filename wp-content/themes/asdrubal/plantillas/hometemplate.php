@@ -5,6 +5,7 @@ get_header();
 
 <div class="plantilla home">
 
+
     <h1><?php the_title();?></h1>
 
     <section id="contenido">
