@@ -51,3 +51,7 @@ nav>ul {
     padding: 0.01em 16px;
     box-sizing: inherit;
 }
+
+body {
+    margin-top: 50px;
+}
