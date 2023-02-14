@@ -4,7 +4,9 @@
 
 <?php get_header();?>
 
+<div class="generico">
 <h1> <?php the_title();?></h1>
+</div>
 
 <section>
 <?php the_content();?>

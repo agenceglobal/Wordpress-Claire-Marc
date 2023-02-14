@@ -1,5 +1,6 @@
         <footer>
-            <address>
+            <hr class="separador">
+            <address class="info-contacto">
                 Email: <a href="mailto:info@agenciaclairemarc.com">info@agenciaclairemarc.com</a><br>
                 Barcelona, España
             </address>
