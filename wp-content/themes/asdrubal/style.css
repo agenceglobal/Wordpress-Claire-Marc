@@ -22,7 +22,13 @@ nav>ul {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin: 20px auto;}
+    margin: 20px auto;
+}
+
+.foot{
+    background-color: #7998BC;
+    color: white;
+}
 
 .post-card a{
     height: 200px;

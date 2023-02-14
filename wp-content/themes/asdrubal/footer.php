@@ -3,7 +3,7 @@
                 Email: <a href="mailto:info@agenciaclairemarc.com">info@agenciaclairemarc.com</a><br>
                 Barcelona, España
             </address>
-            <div class="flexcenter">
+            <div class="flexcenter foot">
                 <p>
                     Aviso Legal | Política de Privacidad | Política de Cookies
                 </p>
