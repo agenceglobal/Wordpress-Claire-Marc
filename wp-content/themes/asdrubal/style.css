@@ -12,7 +12,6 @@ nav>ul {
     position: fixed;
     width: 100%;
     background: white;
-    margin: 0px;
     top: 0;
     height: 50px;
     z-index: 10;
@@ -54,7 +53,7 @@ nav>ul {
     color: #fff;
     background-color: #009688;
     text-align: center;
-    padding: 0.01em 16px;
+    padding: 1.01em 16px;
     box-sizing: inherit;
 }
 
@@ -65,3 +64,11 @@ nav>ul {
 a:link, a:visited {
     text-decoration: none;
   }
+
+ body {
+    margin-top: 50px;
+}
+
+.separador {
+    margin: 80px 0 50px 0;
+}
