@@ -1,21 +1,21 @@
 <?php
 get_header();
 ?>
-
+<section>
 <div class="generico">
 
     <h1>
         <?php single_cat_title();
         ?>
     </h1>
-
+</section>
 <section id="contenido">
     <?php
     echo category_description();
     ?>
 </section>
 
-<section id="articulos">
+<section id="articulos" class="flexcenter">
     <?php
     $args = array(
         'cat' => get_query_var('cat'),
