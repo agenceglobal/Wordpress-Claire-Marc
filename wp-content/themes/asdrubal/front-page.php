@@ -3,13 +3,11 @@ get_header();
 //include_once 'header.php';?>
 
 <div class="generico">
-
     <h1><?php the_title();?></h1>
-
+</div>
     <section id="contenido">
     <?php the_content();?>
     </section>
-</div>
 <div>
     <?php  
    include $plantillas.'trespost.php';
