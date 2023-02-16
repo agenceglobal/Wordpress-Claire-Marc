@@ -3,18 +3,17 @@ get_header();
 ?>
 <section>
 <div class="generico">
-
     <h1>
         <?php single_cat_title();
         ?>
     </h1>
+</div>
 </section>
 <section id="contenido">
     <?php
     echo category_description();
     ?>
 </section>
-
 <section id="articulos" class="flexcenter">
     <?php
     $args = array(
@@ -34,9 +33,6 @@ get_header();
     wp_reset_postdata();
     ?>
 </section>
-
-</div>
-
 <?php
 get_footer();
 ?>
