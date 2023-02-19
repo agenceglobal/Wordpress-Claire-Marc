@@ -1,0 +1,32 @@
+# Translation of Plugins - ACF Theme Code for Advanced Custom Fields - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - ACF Theme Code for Advanced Custom Fields - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-29 07:23:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - ACF Theme Code for Advanced Custom Fields - Development (trunk)\n"
+
+#. Plugin URI of the plugin
+msgid "https://hookturn.io/downloads/acf-theme-code-pro/"
+msgstr "https://hookturn.io/downloads/acf-theme-code-pro/"
+
+#. Author of the plugin
+msgid "Ben Pearson and Phil Kurth"
+msgstr "Ben Pearson y Phil Kurth"
+
+#. Plugin Name of the plugin
+msgid "Advanced Custom Fields: Theme Code"
+msgstr "Advanced Custom Fields: Theme Code"
+
+#: core/core.php:198
+msgid "Theme Code"
+msgstr "Código para el tema"
+
+#. Description of the plugin
+msgid "Generates theme code for ACF field groups to speed up development."
+msgstr "Genera el código del el tema para los grupos de campos de ACF para acelerar el desarrollo."
