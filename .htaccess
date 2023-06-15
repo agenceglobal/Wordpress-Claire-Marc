@@ -12,5 +12,6 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
-RedirectMatch 404 ^/wp-sitemap.xml$
+RedirectMatch 404 ^/wp-sitemap.xml$ 
+#para eliminar el sitemap que viene por defecto en wordpress; se pueden añadir todo los sitemaps que queramos como de author o category
 # END WordPress
